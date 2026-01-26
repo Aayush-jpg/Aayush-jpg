@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 I am a Computer Science undergraduate at Northern Kentucky University.  
 I am interested in **software engineering, backend systems, data engineering, and applied AI/ML**.
 
