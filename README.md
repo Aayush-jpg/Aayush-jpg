@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Ghimire 👋</h1>
-<h3 align="center">Computer Science • AI/ML • Software Engineering</h3>
+<h3 align="center">Computer Science Student • Software Engineering • Data & AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush-jpg&label=Profile%20Views&color=blue&style=flat" />
@@ -8,43 +8,52 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m a Computer Science student at Northern Kentucky University with a strong interest in **AI/ML, backend development, data engineering, and building meaningful tech solutions**.  
-I enjoy working with Python, JavaScript, SQL, and modern frameworks like React, Angular, and TensorFlow.
+I am a Computer Science undergraduate at Northern Kentucky University.  
+I am interested in **software engineering, backend systems, data engineering, and applied AI/ML**.
 
-I use GitHub to share my projects, track my progress, and document what I’m learning.
+I enjoy working with **Python, Java, JavaScript, and SQL**, and building projects that focus on **clarity, correctness, and real-world use cases**.
 
----
-
-## 📄 Resume
-You can view my resume here:  
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Aayush-jpg/portfolio/blob/main/resume.pdf)
+I use GitHub to:
+- Build and document projects  
+- Practice engineering concepts  
+- Track my learning and improvement over time  
 
 
 ---
 
 ## 📁 Portfolio & Academic Work
 
-Here are a few things I’ve worked on or am currently working on:
+Below are selected projects and coursework I have worked on:
 
-### **Kissan — AgriTech Platform**
-AI-powered crop recommendation and analytics system.  
-Tech: Python, TensorFlow, PostgreSQL, React, APIs.
+### **Data Cleaning Impact Analysis**
+Study of how different data-cleaning strategies affect analytical results.  
+**Tech:** Python, Pandas, NumPy
 
-### **EvoHealth — Healthcare Analytics**
-Data pipelines, dashboards, and ETL workflows for large clinical datasets.  
-Tech: SQL, Python, Power BI.
+### **Java Refactoring Agent**
+Rule-based and automated refactoring experiments for Java codebases.  
+**Tech:** Java, Python
 
-### **Intelliwise — Education Platform**
-A modern, responsive learning platform.  
-Tech: React, Tailwind, Node.js.
+### **Stock (Academic Project)**
+Exploration of market data and basic analytics.  
+**Tech:** Kotlin
 
-### **Internship Content (Coming Soon)**
+### **Hackathon Projects (Forked Repositories)**
+Some repositories on my profile are **forked** because they were developed as part of **team-based hackathons**.
 
+These include:
+- **Kissan — AgriTech Platform**  
+- **EvoHealth — Healthcare Analytics**  
+- **Intelliwise — Education Platform**
+
+In these projects, I contributed to specific features, data workflows, and UI components.  
+They are kept public for **transparency and learning reference**.
+
+---
 
 ## 🛠️ Skills
 **Languages:** Python, Java, JavaScript, SQL, C, C++, R  
-**Tools & Frameworks:** React, Angular, Tailwind, TensorFlow, Node.js, Spring, Docker  
-**Other:** APIs, dashboards, analytics, cloud fundamentals
+**Frameworks & Tools:** React, Angular, Node.js, Tailwind, TensorFlow, Spring, Docker  
+**Concepts:** APIs, backend systems, data pipelines, dashboards, analytics
 
 ---
 
