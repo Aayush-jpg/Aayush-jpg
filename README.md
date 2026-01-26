@@ -68,6 +68,7 @@ They are kept public for **transparency and learning reference**.
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-jpg&layout=compact&exclude_repo=Kissan,EvoHealth,intelliwise,Stock" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-jpg&layout=compact&exclude_repo=Kissan,EvoHealth,intelliwise,flutter-demo" />
+ 
 
 </p>
