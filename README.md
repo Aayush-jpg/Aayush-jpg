@@ -99,8 +99,3 @@ Built an NLP pipeline that extracts YouTube transcripts via the Data API and aut
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-jpg&layout=compact&exclude_repo=Kissan,EvoHealth,intelliwise,flutter-demo" />
-</p>
