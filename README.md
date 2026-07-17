@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Computer Science graduate from Northern Kentucky University (GPA 3.6, Dean's List).
+I am a Computer Science graduate from Northern Kentucky University.
 
 I specialize in **data engineering, ETL pipelines, BI dashboards, and backend systems**. I have real production experience building data infrastructure used by 10+ nonprofit organizations.
 
