@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Ghimire 👋</h1>
-<h3 align="center">Computer Science Student • Software Engineering • Data & AI</h3>
+<h3 align="center">Data Engineer & Software Developer • CS Graduate • NKU 2026</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush-jpg&label=Profile%20Views&color=blue&style=flat" />
@@ -8,58 +8,78 @@
 ---
 
 ## About Me
-I am a Computer Science undergraduate at Northern Kentucky University.  
-I am interested in **software engineering, backend systems, data engineering, and applied AI/ML**.
 
-I enjoy working with **Python, Java, JavaScript, and SQL**, and building projects that focus on **clarity, correctness, and real-world use cases**.
+I am a Computer Science graduate from Northern Kentucky University (GPA 3.6, Dean's List).
 
-I use GitHub to:
-- Build and document projects  
-- Practice engineering concepts  
-- Track my learning and improvement over time  
+I specialize in **data engineering, ETL pipelines, BI dashboards, and backend systems**. I have real production experience building data infrastructure used by 10+ nonprofit organizations.
 
+I work with **Python, SQL, PostgreSQL, Power BI, AWS, and Docker** and enjoy building systems that are reliable, clean, and actually useful.
 
 ---
 
-## 📁 Portfolio & Academic Work
+## 💼 Production Experience
 
-Below are selected projects and coursework I have worked on:
+### **Software & Data Engineer — Time to Give (t2g.org)**
+*Aug 2025 – May 2026 | Cincinnati, OH*
 
-### **Data Cleaning Impact Analysis**
-Study of how different data-cleaning strategies affect analytical results.  
-**Tech:** Python, Pandas, NumPy
+- Built Python/SQL ETL pipelines processing **10,000+ daily donation records** with automated validation
+- Developed Power BI dashboards integrating **Salesforce CRM and PostgreSQL** across 8 programs serving 10+ nonprofits
+- Implemented CI/CD via GitHub Actions with PII handling and data governance controls
+- Reduced manual data entry by **85%**
 
-### **Java Refactoring Agent**
-Rule-based and automated refactoring experiments for Java codebases.  
-**Tech:** Java, Python
+### **AI/ML Research Collaborator — Northern Kentucky University**
+*May 2024 – Aug 2025*
 
-### **Stock (Academic Project)**
-Exploration of market data and basic analytics.  
-**Tech:** Kotlin
+- Built stock price prediction system using Python and technical indicators (RSI, MACD, Bollinger Bands)
+- Developed Django REST API serving real-time ML predictions with **sub-2-second latency**
+- Designed Kotlin Android app with JWT authentication and 14-day price forecasting
 
-### **Hackathon Projects (Forked Repositories)**
-Some repositories on my profile are **forked** because they were developed as part of **team-based hackathons**.
+---
 
-These include:
-- **Kissan — AgriTech Platform**  
-- **EvoHealth — Healthcare Analytics**  
-- **Intelliwise — Education Platform**
+## 📁 Selected Projects
 
-In these projects, I contributed to specific features, data workflows, and UI components.  
-They are kept public for **transparency and learning reference**.
+### **EvoHealth — Healthcare Data Warehouse**
+Star Schema data warehouse for 20,000+ clinical records with full Python ETL pipeline and 100+ unit tests.
+Power BI dashboards tracking patient outcomes and department KPIs, reducing ad-hoc reporting by 60%.
+**Tech:** Python, PostgreSQL, Power BI, Star Schema, ETL
+
+### **AI Code Refactoring Agent**
+Autonomous GPT-4 agent that refactors legacy Java codebases with compilation feedback and syntax validation.
+**Tech:** Python, GPT-4, Java, Maven, Gradle
+
+### **Intelliwise — Georgia Tech Hackathon**
+NLP pipeline extracting YouTube transcripts and generating quiz questions in real time.
+**Tech:** Python, Flask, NLP, YouTube Data API
+
+### **Hackathon Projects**
+- **Kissan** — AgriTech platform
+- **EvoHealth** — Healthcare analytics
+- **Intelliwise** — Education platform
 
 ---
 
 ## 🛠️ Skills
-**Languages:** Python, Java, JavaScript, SQL, C, C++, R  
-**Frameworks & Tools:** React, Angular, Node.js, Tailwind, TensorFlow, Spring, Docker  
-**Concepts:** APIs, backend systems, data pipelines, dashboards, analytics
+
+**Languages:** Python, SQL, Java, JavaScript, Bash
+
+**Databases:** PostgreSQL, MySQL, MongoDB, SQL Server
+
+**Data & Analytics:** ETL Pipelines, Dimensional Modeling, Star Schema, Pandas, NumPy, Feature Engineering, Time Series
+
+**Cloud & DevOps:** AWS (S3, EC2, RDS), Docker, Git, GitHub Actions, Linux
+
+**BI & Visualization:** Power BI, Tableau, Data Quality & Validation
+
+**Frameworks & APIs:** Django, FastAPI, Flask, REST APIs
+
+**Tools:** Salesforce CRM, Agile/Scrum, JIRA
 
 ---
 
 ## 🌐 Connect With Me
+
 <p>
-<a href="https://www.linkedin.com/in/ayush-ghimire-727696250/">
+<a href="https://www.linkedin.com/in/ayush-ghimire-/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
@@ -67,8 +87,7 @@ They are kept public for **transparency and learning reference**.
 ---
 
 ## 📊 GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-jpg&layout=compact&exclude_repo=Kissan,EvoHealth,intelliwise,flutter-demo" />
- 
-
 </p>
