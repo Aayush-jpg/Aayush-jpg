@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Ghimire 👋</h1>
-<p align="center"><strong>AI Engineer · Data Engineer & Analyst</strong></p>
+<p align="center"><strong>AI / Data Engineer & Analyst</strong></p>
 
 ## About Me
 
